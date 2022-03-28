@@ -1,15 +1,30 @@
-## Olá! Eu sou Kenneth Olusegun
+### Olá visitante 👋
 
-- 🔭Hoje trabalho com frontend
-- 🌱 Estudando Typescript e React
+- 🔭Hoje trabalho com Backend
+- 🌱 Estudando Node e PostgreSQL
 - 😄 Ele/Dele
 
+
+  ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Quem eu sou
+
+  <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+  
+```kotlin
+let Kenneth Olusegun = {
+ let age = "22 anos"
+ let level = "Junior"
+ let hardSkills = listOf("JavaScript", "Node", "React", "TypeScript", "MySQL", "MongoDB") 
+ let learning = listOf("Docker", "AWS", "TDD", "Streams e Buffer", "PostgreSQL")
+}
+```
+## **GitHub Estatísticas**
 <div align="center">
   <a href="https://github.com/KennethOlusegun">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kennetholusegun&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennetholusegun&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
+  ## **Linguagens e Ferramentas:**  
   <div style="display: inline_block"><br>
   <img align="center" alt="Kenny-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Kenny-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
