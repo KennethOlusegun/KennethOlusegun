@@ -11,7 +11,7 @@
   
 ```kotlin
 let Kenneth Olusegun = {
- let age = "22 anos"
+ let age = "24 anos"
  let level = "Junior"
  let hardSkills = listOf("JavaScript", "Node", "React", "TypeScript", "MySQL", "MongoDB") 
  let learning = listOf("Docker", "AWS", "TDD", "Streams e Buffer", "PostgreSQL")
