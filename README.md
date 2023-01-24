@@ -1,6 +1,6 @@
 ### Olá visitante 👋
 
-- 🔭Hoje trabalho com Backend
+- 🔭Hoje trabalho com desenvolvimento Fullstack
 - 🌱 Estudando Node e PostgreSQL
 - 😄 Ele/Dele
 
