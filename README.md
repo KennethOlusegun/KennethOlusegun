@@ -1,6 +1,6 @@
 ### Olá visitante 👋
 
-- 🔭Hoje trabalho com desenvolvimento Fullstack na Bluecore.it
+- 🔭Hoje trabalho com desenvolvimento Backend na Qa.Coders Academy
 - 🌱 Estudando Node e PostgreSQL
 - 😄 Ele/Dele
 
