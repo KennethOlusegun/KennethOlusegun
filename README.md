@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kennethdornelles" alt="kennethdornelles" /></a> </p>
 
-- 🔭 I’m currently working on **Lojas Renner SA**
+- 🔭 I’m currently working on **Unimed João Pessoa e CrossOften**
 
 - 🌱 I’m currently learning **Nest.js and Redis**
 
