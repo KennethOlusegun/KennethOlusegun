@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kennethdornelles" alt="kennethdornelles" /></a> </p>
 
-- 🔭 I’m currently working on **Unimed João Pessoa e CrossOften**
+- 🔭 I'm currently working on **Unimed João Pessoa e CrossOften**
 
-- 🌱 I’m currently learning **Nest.js and Redis**
+- 🌱 I'm currently learning **Nest.js and Redis**
 
-- 👨‍💻 All of my projects are available at [https://website-portfolio-kennetholusegun.vercel.app/](https://website-portfolio-kennetholusegun.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://react-portfolio-ten-gules.vercel.app/](https://react-portfolio-ten-gules.vercel.app/)
 
 - 📫 How to reach me **kennetholusegun@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1uaaMeAlKx451VyfACXY3-dfDnMMB38Nq/view?usp=drivesdk](https://drive.google.com/file/d/1uaaMeAlKx451VyfACXY3-dfDnMMB38Nq/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1OfjHn5TDG8-S0A00chTDq5Npbly4Xvzk/view?usp=drive_link](https://drive.google.com/file/d/1OfjHn5TDG8-S0A00chTDq5Npbly4Xvzk/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
