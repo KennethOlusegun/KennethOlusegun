@@ -85,13 +85,3 @@ Minha paixão é resolver problemas complexos e transformar desafios de negócio
     </td>
   </tr>
 </table>
-
----
-
-### ⭐ Estatísticas do GitHub
-
-![Estatísticas de Kenneth no GitHub](https://github-readme-stats.vercel.app/api?username=KennethDornelles&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=KennethDornelles&layout=compact&langs_count=7&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-*(Nota: Lembre-se de substituir `KennethDornelles` pelo seu nome de usuário principal, se for o outro.)*
